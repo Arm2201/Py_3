@@ -1,4 +1,4 @@
 def main ():
     print("Hello, Class!")
-    print ("Tired of GitHub Copilot? Try ChatGPT!")
+    print ("Tired of typing print statements")
     
